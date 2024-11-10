@@ -39,7 +39,7 @@
 
 一个人的力量终归是有限的，特别是在物理和数学方面，希望有更多的人能够邮件联系：kechen666@mail.ustc.edu.cn。
 
-或者直接提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。
+或者直接提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。W
 
 关于具体的模板后续提供，预计将在今年12月30日之前提供。
 
